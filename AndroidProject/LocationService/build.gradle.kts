@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mi.smsservice"
+    namespace = "com.magizhinteractive.locationservice"
     compileSdk = 35
 
     defaultConfig {
@@ -29,8 +29,6 @@ android {
 }
 
 dependencies {
-
-    compileOnly(files("/Applications/Unity/Hub/Editor/6000.0.56f1/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/Classes/classes.jar"))
 
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
