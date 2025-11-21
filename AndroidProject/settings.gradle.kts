@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidServices"
 include(":app")
+include(":smsservice")
