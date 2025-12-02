@@ -1,4 +1,4 @@
-package com.magizhinteractive.locationservice;
+package com.mi.locationservice;
 
 import android.content.Context;
 

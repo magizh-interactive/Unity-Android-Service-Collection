@@ -1,4 +1,4 @@
-package com.magizhinteractive.androidservices
+package com.mi.androidservices
 
 import org.junit.Test
 

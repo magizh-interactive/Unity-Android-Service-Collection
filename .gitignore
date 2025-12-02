@@ -32,3 +32,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+/UnityProject/DemoServices/.utmp
+/UnityProject/DemoServices/Library
+/UnityProject/DemoServices/obj

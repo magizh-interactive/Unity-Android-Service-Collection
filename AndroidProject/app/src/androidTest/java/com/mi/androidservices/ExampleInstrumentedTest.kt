@@ -1,4 +1,4 @@
-package com.magizhinteractive.androidservices
+package com.mi.androidservices
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.magizhinteractive.androidservices"
+    namespace = "com.mi.androidservices"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.magizhinteractive.androidservices"
+        applicationId = "com.mi.androidservices"
         minSdk = 23
         targetSdk = 35
         versionCode = 1
