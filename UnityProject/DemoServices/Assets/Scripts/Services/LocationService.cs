@@ -24,7 +24,10 @@ public class LocationListener : MonoBehaviour
         {
             if (float.TryParse(parts[0], out float lat) && float.TryParse(parts[1], out float lon))
             {
-                Debug.Log($"Lat: {lat}, Lon: {lon}");
+                string latLongText = $"Lat: {lat}, Lon: {lon}";
+                Debug.Log(latLongText);
+                
+                locationText.text = latLongText;
             }
         }
     }
